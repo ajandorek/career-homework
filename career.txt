@@ -1,0 +1,7 @@
+1. http://www.indeed.com/cmp/Fahrenheit-Marketing,-LLC/jobs/Wordpress-Front-End-Developer-d60364e6633a1ab4?q=web+developer
+
+	I like this job as it is more front end focused which is primarily what we have covered so far. It seems like a job that would be a good starting point and would allow me to showcase what I've learned. It also seems like a job that would teach me a lot and I'd be working with a team that could help me grow. This seems like a job that would be a good starting point for a budding web developer.
+
+2. http://www.indeed.com/viewjob?jk=f765c85422d4fdf1&q=web+developer&l=Austin%2C+TX&tk=1b29lmuvoaesucpi&from=web
+	
+	This also appeals to me as it is another entry level position that is javascript focused surrounding various frameworks. I feel like I could apply what I've learned to ember.js and learn a lot more about javascript which seems like an invaluable skill to have.
